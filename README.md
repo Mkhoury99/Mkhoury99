@@ -1,12 +1,60 @@
-<h1 align="center">Hi , I'm Mansour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![Github Banner](https://github.com/Mkhoury99/Mkhoury99/blob/main/banner.png)
+<h1 align="center">Hi , I'm Mansour Al-Khoury <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Engineer;Competitive+Programmer;Hult+Prize+Lebanon+2019+Winner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Engineer+in+Silicon+Valley;Competitive+Programmer;Hult+Prize+Lebanon+2019+Winner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<br>
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
+                width="28" /> What I currently do</h2></summary>
+
+- 🔭 I'm working on my app developement skills to become a better software engineer.
+- 🌱 I’m currently learning Xamarin.
+- 👯 I’m looking to collaborate on Frontend-Web and Xamarin projects.
+- 🤔 I’m looking for help with React.
+- 💬 Ask me about Front-end Web Development and any tech-related stuff.
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mansour99/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="mansour" height="40" width="40" /></a>
+</p>
+
+**Languages and tools I am familiar with:**  
+<br/>
+<br/>
+
+
+
+
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/790012?s=200&v=4"></code>
+<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+#
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
+<code><img height="40" width="40" src="https://bit.ly/3qZmQcU"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+<br/>
+<br/>
 
 <!---
 Mkhoury99/Mkhoury99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
