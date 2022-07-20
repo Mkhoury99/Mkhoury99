@@ -6,28 +6,26 @@
 
 <br>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I currently do</h2></summary>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
+                width="28" /> What I currently do</h2>
 
 - 🔭 I'm working on my app developement skills to become a better software engineer.
 - 🌱 I’m currently learning Xamarin.
 - 👯 I’m looking to collaborate on Frontend-Web and Xamarin projects.
 - 🤔 I’m looking for help with React.
+- 🧗 I currently live in San Francisco
 - 💬 Ask me about Front-end Web Development and any tech-related stuff.
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/mansour99/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="mansour" height="40" width="40" /></a>
 </p>
 
-**Languages and tools I am familiar with:**  
-<br/>
-<br/>
-
+<h2 align="left">Languages and tools I am familiar with:</h2>
 
 
 
@@ -41,7 +39,6 @@
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-#
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
@@ -50,11 +47,12 @@
 <code><img height="40" width="40" src="https://bit.ly/3qZmQcU"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
+<br/>
+<br/> 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-<br/>
-<br/>
+
 
 <!---
 Mkhoury99/Mkhoury99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
