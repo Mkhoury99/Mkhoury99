@@ -10,11 +10,10 @@
                 width="28" /> What I currently do</h2>
 
 - 🔭 I'm working on my app developement skills to become a better software engineer.
-- 🌱 I’m currently learning Xamarin.
-- 👯 I’m looking to collaborate on Frontend-Web and Xamarin projects.
-- 🤔 I’m looking for help with React.
+- 🌱 I’m currently learning Flutter and Dart.
+- 👯 I’m looking to collaborate on Frontend-Web and Flutter projects.
 - 🧗 I currently live in San Francisco
-- 💬 Ask me about Front-end Web Development and any tech-related stuff.
+- 💬 Ask me about C++ Development and any tech-related stuff.
 
 <br>
 
