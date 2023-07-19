@@ -9,7 +9,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2>
 
-- 🔭 I'm working on my app developement skills to become a better software engineer.
+- 🔭 I'm working on my mobile app developement skills to become a better mobile software engineer.
 - 🧗 I currently live in San Francisco
 - 💬 Ask me about C++ Development and any tech-related stuff.
 
