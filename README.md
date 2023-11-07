@@ -9,15 +9,18 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2>
 
-- 🔭 I'm working on my mobile app developement skills to become a better mobile software engineer.
+- 🔭 I'm working on my mobile developement skills in flutter and Xamarin (I know its old :P)
+- 🧗 Developed 5 mobile apps including an app that ranked #70 in the news apps on the Apple appstore
 - 🧗 I currently live in San Francisco
+- 🔭 Working as an AI engineer at Agiline Software (I also do mobile(Xamarin) and features(Python) developement)
+- 💬 Masters in International Business and Data Analytics and a Bachelor in computer science.
 - 💬 Ask me about C++ Development and any tech-related stuff.
 
 <br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mansour99/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/mansourkhoury/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="mansour" height="40" width="40" /></a>
 </p>
