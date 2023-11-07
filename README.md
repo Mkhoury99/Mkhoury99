@@ -44,7 +44,7 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
-<code><img height="40" width="40" src="https://bit.ly/3qZmQcU"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prolog_icon_130230.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
