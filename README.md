@@ -41,7 +41,7 @@
 
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
 <code><img height="40" width="40" src="https://bit.ly/3qZmQcU"></code>
