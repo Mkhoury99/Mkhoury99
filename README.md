@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/Mkhoury99/Mkhoury99/blob/main/banner.png)
 <h1 align="center">Hi , I'm Mansour Khoury <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Software+Engineer+in+Silicon+Valley;Competitive+Programmer;Hult+Prize+2019+Winner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Software+Engineer;AI+Engineer;Hult+Prize+Lebanon+2019+Winner;Startup%20Builder%20&center=true&width=500&height=50"></a>
 </p>
 
 <br>
@@ -9,12 +9,12 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2>
 
-- 🔭 I'm working on my mobile developement skills in flutter and Xamarin (I know its old :P)
-- 🧗 Developed 5 mobile apps including an app that ranked #70 in the news apps on the Apple appstore
-- 🧗 I currently live in San Francisco
-- 🔭 Working as an AI engineer at Agiline Software (I also do mobile(Xamarin) and features(Python) developement)
-- 💬 Masters in International Business and Data Analytics and a Bachelor in computer science.
-- 💬 Ask me about C++ Development and any tech-related stuff.
+* 🚀 AI Engineer building production AI systems, automation platforms, and scalable software solutions.
+* 🤖 Built AI products that generated real business impact, including a resume-to-job matching system sold as part of a **$1M enterprise deal** and a YOLO-based face & license plate recognition system deployed for California traffic enforcement.
+* 📱 Developed high-performance Flutter applications, including **Al Ahdath 24**, which reached **#70 in the Apple App Store News category**, and **Khod**, serving **50K+ daily users**.
+* ⚡ Passionate about turning ideas into products—from co-founding AI and IoT startups to shipping web, mobile, and backend applications.
+* 🎓 M.S. in International Business (STEM – Business Analytics) | B.S. in Computer Science.
+* 💬 Ask me about AI, Python, Flutter, C++, computer vision, automation, startups, or building products from 0 → 1.
 
 <br>
 
